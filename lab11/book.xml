@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_221" class="java.beans.XMLDecoder">
+ <object class="Paragraph">
+  <void property="paragraph_title">
+   <string>Paragraph 1</string>
+  </void>
+ </object>
+ <object class="Paragraph">
+  <void property="paragraph_title">
+   <string>Paragraph 2</string>
+  </void>
+ </object>
+ <object class="Paragraph">
+  <void property="paragraph_title">
+   <string>Paragraph 3</string>
+  </void>
+ </object>
+ <object class="Paragraph">
+  <void property="paragraph_title">
+   <string>Paragraph 4</string>
+  </void>
+ </object>
+</java>
